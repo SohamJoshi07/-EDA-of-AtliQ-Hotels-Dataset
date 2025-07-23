@@ -32,4 +32,4 @@ Visualizations and insights embedded directly in the notebook
 🚀 Future Work
 Implement time-series forecasting for future occupancy rates
 Dashboard creation using Streamlit or Power BI
-Integrate external datasets like weather or events for deeper insights
+Integrate external datasets like weather or events for deeper insights.
